@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="152.4mm" height="76.2mm" viewBox="0 0 152.4 76.2"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g stroke="#000000" stroke-opacity="0.000" fill="#222831" id="img-b3a49c2f-1">
+  <rect x="0" y="0" width="152.4" height="76.2"/>
+</g>
+<g class="plotroot xscalable yscalable" id="img-b3a49c2f-2">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#A1A1A1" stroke="#000000" stroke-opacity="0.000" id="img-b3a49c2f-3">
+    <text x="85.25" y="64.59" text-anchor="middle" dy="0.6em">time</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#A1A1A1" id="img-b3a49c2f-4">
+    <text x="25.09" y="57.91" text-anchor="middle" dy="0.6em">0</text>
+    <text x="49.15" y="57.91" text-anchor="middle" dy="0.6em">50</text>
+    <text x="73.21" y="57.91" text-anchor="middle" dy="0.6em">100</text>
+    <text x="97.28" y="57.91" text-anchor="middle" dy="0.6em">150</text>
+    <text x="121.34" y="57.91" text-anchor="middle" dy="0.6em">200</text>
+    <text x="145.4" y="57.91" text-anchor="middle" dy="0.6em">250</text>
+  </g>
+<g clip-path="url(#img-b3a49c2f-5)">
+  <g id="img-b3a49c2f-6">
+    <g pointer-events="visible" opacity="1" fill="#222831" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-b3a49c2f-7">
+      <rect x="23.09" y="5" width="124.31" height="51.91"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#575757" id="img-b3a49c2f-8">
+      <path fill="none" d="M23.09,54.91 L 147.4 54.91"/>
+      <path fill="none" d="M23.09,42.94 L 147.4 42.94"/>
+      <path fill="none" d="M23.09,30.96 L 147.4 30.96"/>
+      <path fill="none" d="M23.09,18.98 L 147.4 18.98"/>
+      <path fill="none" d="M23.09,7 L 147.4 7"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#575757" id="img-b3a49c2f-9">
+      <path fill="none" d="M25.09,5 L 25.09 56.91"/>
+      <path fill="none" d="M49.15,5 L 49.15 56.91"/>
+      <path fill="none" d="M73.21,5 L 73.21 56.91"/>
+      <path fill="none" d="M97.28,5 L 97.28 56.91"/>
+      <path fill="none" d="M121.34,5 L 121.34 56.91"/>
+      <path fill="none" d="M145.4,5 L 145.4 56.91"/>
+    </g>
+    <g class="plotpanel" id="img-b3a49c2f-10">
+      <g class="yfixed" id="img-b3a49c2f-11">
+        <g stroke-dasharray="1,1" stroke-width="0.3" stroke="#FE4365" id="img-b3a49c2f-12">
+          <path fill="none" d="M32.31,5 L 32.31 56.91"/>
+        </g>
+      </g>
+      <g stroke-width="0.3" fill="#000000" fill-opacity="0.000" class="geometry" stroke-dasharray="none" stroke="#FE4365" id="img-b3a49c2f-13">
+        <path fill="none" d="M25.57,32.42 L 26.05 34.46 26.54 31.85 27.02 35.07 27.5 30.99 27.98 25.65 28.46 33.93 28.94 29.61 29.42 33.86 29.9 30.68 30.39 28.25 30.87 34.94 31.35 25.84 31.83 31.85 32.31 36.03 32.79 28.75 33.27 28.52 33.75 36.34 34.24 31.71 34.72 29.43 35.2 28.27 35.68 30.97 36.16 30.35 36.64 28.81 37.12 29.91 37.6 29.25 38.08 31.66 38.57 32.89 39.05 34.38 39.53 24.07 40.01 36.14 40.49 27.8 40.97 34.92 41.45 25.87 41.93 25.51 42.42 30.91 42.9 33.69 43.38 40.04 43.86 13.71 44.34 50.56 44.82 26.32 45.3 28.59 45.78 31.28 46.27 31.32 46.75 38.59 47.23 25.04 47.71 29.43 48.19 29.89 48.67 34.33 49.15 28.03 49.63 32.06 50.12 33.48 50.6 31.92 51.08 30.94 51.56 38.22 52.04 15.72 52.52 39.35 53 29.75 53.48 27.22 53.97 36.14 54.45 20.17 54.93 34.27 55.41 32.46 55.89 23.8 56.37 26.77 56.85 33.43 57.33 34.26 57.82 29.26 58.3 31.83 58.78 29.94 59.26 28.13 59.74 27.43 60.22 30.26 60.7 31.33 61.18 33.26 61.67 29.46 62.15 30.76 62.63 28.86 63.11 28.28 63.59 28.92 64.07 33.66 64.55 30.91 65.03 32.92 65.52 36.6 66 24.18 66.48 33.97 66.96 32.05 67.44 30.71 67.92 30.78 68.4 31.56 68.88 32.85 69.37 31.5 69.85 28.57 70.33 30.83 70.81 28.48 71.29 28.36 71.77 27.73 72.25 39.97 72.73 28.15 73.21 32.84 73.7 30.36 74.18 31.95 74.66 31.33 75.14 30.42 75.62 29.06 76.1 32.4 76.58 32.56 77.06 26.23 77.55 33.42 78.03 30.34 78.51 29.46 78.99 29.22 79.47 32.61 79.95 38.75 80.43 7.56 80.91 40.19 81.4 31.86 81.88 26.18 82.36 43.4 82.84 23.75 83.32 32.33 83.8 29.98 84.28 36.01 84.76 27.31 85.25 27.88 85.73 33.12 86.21 29.73 86.69 32.04 87.17 28.86 87.65 33.61 88.13 36.49 88.61 25.32 89.1 31.78 89.58 33.11 90.06 32.04 90.54 30.01 91.02 27.32 91.5 40.91 91.98 26.6 92.46 33.36 92.95 30.02 93.43 32.03 93.91 27.32 94.39 32.3 94.87 28.44 95.35 32.86 95.83 29.93 96.31 27.62 96.8 39.53 97.28 26.49 97.76 26.84 98.24 33.94 98.72 29.31 99.2 30.49 99.68 30.39 100.16 31.38 100.65 17.06 101.13 41.23 101.61 24.01 102.09 23.8 102.57 23.27 103.05 44.53 103.53 29.86 104.01 28.86 104.5 30.03 104.98 34.56 105.46 26.01 105.94 36.07 106.42 32.2 106.9 26.7 107.38 31.75 107.86 26.26 108.35 35.36 108.83 33.36 109.31 30.37 109.79 27.29 110.27 30.92 110.75 34.15 111.23 33.71 111.71 34.97 112.19 25.02 112.68 33.68 113.16 39.32 113.64 24.43 114.12 31.61 114.6 33.67 115.08 31.49 115.56 28.16 116.04 31.64 116.53 34.96 117.01 32.68 117.49 34.09 117.97 26.41 118.45 15.27 118.93 30.53 119.41 25.8 119.89 34.84 120.38 29.33 120.86 25.79 121.34 22.27 121.82 26.46 122.3 31.98 122.78 33.67 123.26 29.6 123.74 28.97 124.23 26.34 124.71 28.46 125.19 36.49 125.67 29.53 126.15 27.23 126.63 31.77 127.11 32.85 127.59 34.63 128.08 27.34 128.56 30.17 129.04 32.08 129.52 29.69 130 30.5 130.48 33.91 130.96 27.2 131.44 33.4"/>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#A1A1A1" id="img-b3a49c2f-14">
+    <text x="22.09" y="54.91" text-anchor="end" dy="0.35em">-0.002</text>
+    <text x="22.09" y="42.94" text-anchor="end" dy="0.35em">-0.001</text>
+    <text x="22.09" y="30.96" text-anchor="end" dy="0.35em">0.000</text>
+    <text x="22.09" y="18.98" text-anchor="end" dy="0.35em">0.001</text>
+    <text x="22.09" y="7" text-anchor="end" dy="0.35em">0.002</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#A1A1A1" stroke="#000000" stroke-opacity="0.000" id="img-b3a49c2f-15">
+    <text x="8.81" y="28.96" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 30.96)">avg Δ pixels</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-b3a49c2f-5">
+  <path d="M23.09,5 L 147.4 5 147.4 56.91 23.09 56.91" />
+</clipPath>
+</defs>
+</svg>
