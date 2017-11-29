@@ -1,17 +1,24 @@
-using Unitful
-using AxisArrays
-using OMETIFF
+# import Unitful
+# import AxisArrays
+# import OMETIFF
+# import Images, ImageView
 using Images
-dataDir = "/media/tyler/9640DAD740DABD65"
-dataFile = "C1-MAX_091117_Ag731_2242Gs_hSS_DlxR.lif - Series005-1.tif"
-dataFile = "100516_Ag924Gs - series 5.tif"
-dataFile = "AVG_100516_Ag924Gs - series 5.ome.tif"
-# dataFile = "ser5-maxproject.tif"
-dataFile = "series5-saveastiff.tif"
+# import TestImages
+import PyPlot
+plt = PyPlot
+dataDir = "/media/tyler/9640DAD740DABD65/COLM_Data/2017-10-23/Im10x_organoid_AG10-4_2242_sample2_20171023_150845/VW0/LOC000"
 
-dataDir = "/home/tyler/Dropbox/data/pasca/jimena"
-dataFile = "JA16 hSC-HS Fusion A Tub d10_high mag HS all video.ome.tif"
-dataFile = "JA16 hSC-HS Fusion A Tub d10_high mag HS all video.tif"
+files = [joinpath(dataDir,dataFile) for dataFile in readdir(dataDir)]
 
-tifs = load(joinpath(dataDir,dataFile))
-println("size", size(tifs))
+function readStack(stackFile)
+    i = read(stackFile)
+    reinterpret(Int16, i)
+    # return reshape(i,2048,2048,:)/2^16
+    return reshape(i,2048,2048,:)/2^16
+end
+
+i = readStack(files[1])
+Gray.(i[:,:,1])
+# plt.imshow(i[1,:,:])
+plt.imshow(i[:,:,10])
+# doesn't look right...
